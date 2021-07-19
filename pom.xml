@@ -4,7 +4,7 @@
 
 	<groupId>org.devops.calculator</groupId>
 	<artifactId>Calculator</artifactId>
-	<version>2.0.0-SNAPSHOT</version>
+	<version>${mybuildno}</version>
 	<packaging>jar</packaging>
 
 	<name>Calculator-App</name>
